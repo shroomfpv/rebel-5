@@ -1,0 +1,13 @@
+rebel 5 parts list
+
+5mm carbon plate (for arms)
+2mm carbon plate (rest of the frame)
+2mm endmill (composite type)
+cnc machine or cnc service
+3d printer (with pla+ and tpu for landing gear)
+2x m3x12 screws (front 2 holes on top plate)
+6x m3x10 screws (2x for second 2 holes towards the front and 4x for inner arm screws)
+6x m3x6 screws (4x for last 4 holes on top plate and 2x on bottom plate for front standoffs)
+6x 5mm m3 standoffs
+2x 30mm m3 standoffs (for front end and cam shell)
+4x m3 lock nuts
